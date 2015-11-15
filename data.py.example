@@ -1,0 +1,6 @@
+DATA = {
+    'kowalski': { 'jan@kowalski.com', 'full_name': 'Jan Kowalski'},
+    'Nowak': { 'nowak.jan@gmail.com', 'full_name': 'Jan Nowak'},
+}
+
+SECRET_MESSAGE = 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut dapibus enim nec nunc aliquam sodales.'
